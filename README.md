@@ -1,4 +1,4 @@
-Python Astroids
+Python Asteroids
 
 A recreation from scratch of the classic arcade game. I've never actually
 played the real game, so have based this on seeing youtube videos and
@@ -7,6 +7,7 @@ talking to people who have played it
 Game keys used are either Q for thrust, A for shoot and OP for rotation  or  Up for Thrust, Space for shoot and Left,Right for Rotate. H for hyperspace jump
 
 The program requires PyGame and Python 3
+
 Sound files all created by Torin Stephens
 
 Tested and developed under PyGame 2.0.0 and Python 3.8.5
